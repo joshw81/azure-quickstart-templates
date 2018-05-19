@@ -19,7 +19,7 @@
     "username": {
       "type": "string",
       "metadata": {
-        "description": "Username for your NAV super user"
+        "description": "Username for your NAV super users"
       }
     },
     "password": {
